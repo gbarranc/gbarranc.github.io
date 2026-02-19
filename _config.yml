@@ -4,6 +4,11 @@ url: https://gbarranc.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
   Hi, i'm Gael Barranco
 
+
+
+  Contacts:
+  (615) 295 - 3818
+
 permalink: /:slug
 
 favicon: "./GTLOGO.png" # relative path to site's favicon
