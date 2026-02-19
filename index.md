@@ -3,9 +3,9 @@ layout: home
 ---
 
 
-# Sample heading 1
-## Sample heading 2
-### Sample heading 3
-#### Sample heading 4
-##### Sample heading 5
-###### Sample heading 6
+## Contacts
+Mobile +1(615)-295-3818
+Email (business) gbarranco3@gatech.edu
+Email (personal) g.barrancon@gmail.com
+
+## Links
