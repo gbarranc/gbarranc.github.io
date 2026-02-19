@@ -17,29 +17,29 @@ navbar_entries:
 project_entries:
   - title: Princess Bubblegum
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: A fully 3D printed, 4 DOF robot arm with 158 fully mated solidworks parts.
     highlight: WIP
 
   - title: Wearable 1
     url: code
-    desc: Projects are shown in card layout
+    desc: For those who are losing elbow locomtotion, an inexpensive proof of concept wearable robot.
 
   - title: RoboJackets Arm
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: Ongoing research in cycloidal gearbox design and analysis for rover arm.
     highlight: WIP
 
 old_project_entries:
-  - title: Farm World Finn
-    url: https://www.soopr.co
+  - title: Undergraduate Research at UTK
+    url: overview-post
     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
+  - title: Farm World Finn
+    url: overview-post
     desc: An open source landing website with supporting pages and integrated blog
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
+  - title: Placeholder
+    url: overview-post
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
 footer_entries:
