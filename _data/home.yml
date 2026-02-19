@@ -1,11 +1,17 @@
 navbar_entries:
-  - title: about
+  - title: About
     url: about
 
   - title: Posts
     url: blog
 
-  - title: website
+  - title: Resume
+    url: https://gbarranc.github.io/
+    
+  - title: Portfolio
+    url: https://gbarranc.github.io/
+    
+  - title: Travel
     url: https://gbarranc.github.io/
 
 project_entries:
