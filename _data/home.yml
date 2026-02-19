@@ -18,7 +18,6 @@ project_entries:
   - title: Princess Bubblegum
     url: overview-post
     desc: A fully 3D printed, 4 DOF robot arm with 158 fully mated solidworks parts.
-    highlight: WIP
 
   - title: Wearable 1
     url: code
@@ -32,11 +31,11 @@ project_entries:
 old_project_entries:
   - title: Undergraduate Research at UTK
     url: overview-post
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    desc: Concentrated in 3D printing metals and optimizing microstructures for filtration.
 
   - title: Farm World Finn
     url: overview-post
-    desc: An open source landing website with supporting pages and integrated blog
+    desc: My first real project!
 
   - title: Placeholder
     url: overview-post
