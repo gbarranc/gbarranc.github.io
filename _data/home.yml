@@ -38,14 +38,14 @@ old_project_entries:
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
 footer_entries:
-  - title: linkedin
+  - title: Linkedin
     url: https://www.linkedin.com/in/gael-barranco-6570a5256
 
-  - title: github
+  - title: Github
     url: https://github.com/gbarranc
 
-  - title: feed
-    url: feed.xml
+  - title: Youtube
+    url: https://www.youtube.com/@gael.eats.lobster
 
 misc_entries:
   - title: this is an example vertical list
