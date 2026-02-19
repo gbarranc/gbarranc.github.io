@@ -15,7 +15,7 @@ project_entries:
     highlight: WIP
 
   - title: Wearable 1
-    url: overview-post
+    url: code
     desc: Projects are shown in card layout
 
   - title: RoboJackets Arm
