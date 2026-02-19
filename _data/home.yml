@@ -19,19 +19,19 @@ project_entries:
     url: overview-post
     desc: A fully 3D printed, 4 DOF robot arm with 158 fully mated solidworks parts.
 
-  - title: Wearable 1
-    url: code
-    desc: For those who are losing elbow locomtotion, an inexpensive proof of concept wearable robot.
-
+  - title: Undergraduate Research at UTK
+    url: overview-post
+    desc: Concentrated in 3D printing metals and optimizing microstructures for filtration.
+    
   - title: RoboJackets Arm
     url: overview-post
     desc: Ongoing research in cycloidal gearbox design and analysis for rover arm.
     highlight: WIP
 
 old_project_entries:
-  - title: Undergraduate Research at UTK
-    url: overview-post
-    desc: Concentrated in 3D printing metals and optimizing microstructures for filtration.
+  - title: Wearable 1
+    url: code
+    desc: For those who are losing elbow locomtotion, an inexpensive proof of concept wearable robot.
 
   - title: Farm World Finn
     url: overview-post
