@@ -1,19 +1,10 @@
 ---
 layout: post
-author: Abhinav Saxena
+author: Gael Barranco
 tags: [overview, moonwalk]
 ---
 
-Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
-
-# Sample heading 1
-## Sample heading 2
-### Sample heading 3
-#### Sample heading 4
-##### Sample heading 5
-###### Sample heading 6
-
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
+# TRAVEL POST YEAHHHHH
 
 ## Lists
 
@@ -49,26 +40,6 @@ Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus 
 
 Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. Or you can just have an clean horizontal rule.
 
-## Code
-
-Now some code:
-
-```
-const ultimateTruth = 'follow middlepath';
-console.log(ultimateTruth);
-```
-
-And here is some `inline code`!
-
-## Tables
-
-Now a table:
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
 ## Images
 
