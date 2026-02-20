@@ -16,4 +16,4 @@ Email (business):                         gbarranco3@gatech.edu
 
 Email (personal):                         g.barrancon@gmail.com
 
-## Links
+
