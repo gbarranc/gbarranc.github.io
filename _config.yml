@@ -1,11 +1,6 @@
 title: Gael Barranco
 author: Gael Barranco
 url: https://gbarranc.github.io/ # root address of the site
-description: > # description of the site (multiple lines allowed)
-  My name is Gael Barranco. I am a third year Mechancial Engineer student at Georgia Tech. 
-  I've dipped my toes in undergraduate research in carbon fiber reinforced composites and metal 3D printing.
-  Additionally, I have worked with ATA Engineering as a structural analysis intern.
-  My intersts lie in wearable robotics and prosthetics.
 
 permalink: /:slug
 
