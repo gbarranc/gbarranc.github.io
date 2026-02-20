@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-[logo]: github.com/gbarranc/gbarranc.github.io/blob/master/images/Yosemite.JPG
+![placeholder for headshot](/images/Yosemite.JPG)
 
 ## Description
 My name is Gael Barranco. I am a third year Mechancial Engineer student at Georgia Tech. 
