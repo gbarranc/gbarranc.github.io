@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-
+[logo]: https://github.com/gbarranc/gbarranc.github.io/blob/master/_screenshots/DSCN9183%20(1).JPG
 
 ## Description
 My name is Gael Barranco. I am a third year Mechancial Engineer student at Georgia Tech. 
