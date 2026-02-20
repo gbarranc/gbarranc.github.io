@@ -6,7 +6,7 @@ navbar_entries:
     url: portfolio-post
     
   - title: Travel
-    url: https://gbarranc.github.io/
+    url: travel-post
 
 project_entries:
   - title: Princess Bubblegum
