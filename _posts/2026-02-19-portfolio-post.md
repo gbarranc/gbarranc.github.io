@@ -7,7 +7,7 @@ tags: [overview, moonwalk]
 
 ## Princess Bubblegum:
 Dec 2025-Present
-![PB Pic 1](/images/PB.JPG)
+![PB Pic 1](/images/PB.jpg)
 Why must precision robots be so expensive? I built a 4 DOF robot arm from scratch using
 Facebook Marketplace and a 3D printer, driven by NEMA 23 stepper motors through a
 custom 16:1 two-stage planetary gearbox. In the initial testing, cantilever effects were
@@ -23,7 +23,7 @@ done to allow for inverse kinematics.
 
 ## RoboJackets: RoboNav ARM Project:
 Feb 2026 – Present
-![RBN Pic 1](/images/PB.JPG)
+![RBN Pic 1](/images/PB.jpg)
 Contributing to the Mars Rover Competition on arm dynamics and gearbox design.
 Developed a parametric Excel tool that takes design constraints — gear ratio, pin count,
 and radii — and outputs an optimized cycloidal gearbox geometry, including basic analysis
@@ -34,7 +34,7 @@ linkage dynamics to inform motor and structural specs.
 
 ## 3D Printed Metal Heat Exchangers:
 Feb 2026 – Present
-![PB Pic 1](/images/Research.JPG)
+![PB Pic 1](/images/Research.JPEG)
 Conducted undergraduate research with Dr. Philip Barnett developing 3D printed metal
 structures for engineering applications. Optimized direct ink write processes for steel and
 copper to produce highly porous, high surface area geometries that are difficult to achieve
@@ -46,7 +46,7 @@ Presented work at the SHPE national convention in Fall 2025.
 
 ## Wearable I:
 Sept 2024 – Nov 2024:
-![Wearable Pic 1](/images/PB.JPG)
+![Wearable Pic 1](/images/PB.jpg)
 The fear of losing mobility in a limb is a scary reality that many people today face. The issue
 I sought to address is: how can I regain some level of mobility with the budget of a broke
 college student? I designed and built a low-cost wearable exoskeleton to restore elbow
@@ -61,7 +61,7 @@ constructing the wearable robot, even allowing me to add 4 kg to my max curl.
 
 ## Farm World Finn’s Arm:
 Sept 2024 – Nov 2024:
-![FWF Pic 1](/images/PB.JPG)
+![FWF Pic 1](/images/PB.jpg)
 Took on my first engineering project by building a working robot arm that responds to visual
 hand movement. Designed full CAD assembly from scratch in Onshape, taking heavy
 inspiration from the cartoon Adventure Time. I chose Arduino as the microcontroller
