@@ -3,10 +3,10 @@ navbar_entries:
     url: https://drive.google.com/file/d/1g-p0S5sfK4XeV_R-3uSRzYE18mREoS_p/view?usp=drive_link
     
   - title: Portfolio
-    url: portfolio-post
+    url: portfolio
     
   - title: Travel
-    url: travel-post
+    url: travel
 
 project_entries:
   - title: Princess Bubblegum
