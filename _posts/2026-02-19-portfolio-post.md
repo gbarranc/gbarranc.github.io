@@ -33,7 +33,7 @@ linkage dynamics to inform motor and structural specs.
 
 
 ## 3D Printed Metal Heat Exchangers:
-Feb 2026 – Present
+Dec 2023 – Dec 2025
 ![PB Pic 1](/images/Poster.png)
 Conducted undergraduate research with Dr. Philip Barnett developing 3D printed metal
 structures for engineering applications. Optimized direct ink write processes for steel and
@@ -60,7 +60,7 @@ constructing the wearable robot, even allowing me to add 4 kg to my max curl.
 
 
 ## Farm World Finn’s Arm:
-Sept 2024 – Nov 2024:
+Jan 2023 – May 2023:
 ![FWF Pic 1](/images/FWF_Images.png)
 Took on my first engineering project by building a working robot arm that responds to visual
 hand movement. Designed full CAD assembly from scratch in Onshape, taking heavy
