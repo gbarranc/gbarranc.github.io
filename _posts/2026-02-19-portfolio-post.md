@@ -7,7 +7,7 @@ tags: [overview, moonwalk]
 
 ## Princess Bubblegum:
 Dec 2025-Present
-![PB Pic 1](/images/PB_Images.jpg)
+![PB Pic 1](/images/PB_Images.png)
 Why must precision robots be so expensive? I built a 4 DOF robot arm from scratch using
 Facebook Marketplace and a 3D printer, driven by NEMA 23 stepper motors through a
 custom 16:1 two-stage planetary gearbox. In the initial testing, cantilever effects were
@@ -61,7 +61,7 @@ constructing the wearable robot, even allowing me to add 4 kg to my max curl.
 
 ## Farm World Finn’s Arm:
 Sept 2024 – Nov 2024:
-![FWF Pic 1](/images/FWF_Images.jpg)
+![FWF Pic 1](/images/FWF_Images.png)
 Took on my first engineering project by building a working robot arm that responds to visual
 hand movement. Designed full CAD assembly from scratch in Onshape, taking heavy
 inspiration from the cartoon Adventure Time. I chose Arduino as the microcontroller
