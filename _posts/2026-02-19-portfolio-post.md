@@ -46,7 +46,7 @@ Presented work at the SHPE national convention in Fall 2025.
 
 ## Wearable I:
 Sept 2024 – Nov 2024:
-![Wearable Pic 1](/images/PB.jpg)
+![Wearable Pic 1](/images/Wearable_I.png)
 The fear of losing mobility in a limb is a scary reality that many people today face. The issue
 I sought to address is: how can I regain some level of mobility with the budget of a broke
 college student? I designed and built a low-cost wearable exoskeleton to restore elbow
