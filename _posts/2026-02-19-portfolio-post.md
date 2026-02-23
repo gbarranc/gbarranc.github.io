@@ -23,7 +23,7 @@ done to allow for inverse kinematics.
 
 ## RoboJackets: RoboNav ARM Project:
 Feb 2026 – Present
-![RBN Pic 1](/images/PB.jpg)
+![RBN Pic 1](/images/Cycloid.png)
 Contributing to the Mars Rover Competition on arm dynamics and gearbox design.
 Developed a parametric Excel tool that takes design constraints — gear ratio, pin count,
 and radii — and outputs an optimized cycloidal gearbox geometry, including basic analysis
@@ -34,7 +34,7 @@ linkage dynamics to inform motor and structural specs.
 
 ## 3D Printed Metal Heat Exchangers:
 Feb 2026 – Present
-![PB Pic 1](/images/Research.JPEG)
+![PB Pic 1](/images/Poster.png)
 Conducted undergraduate research with Dr. Philip Barnett developing 3D printed metal
 structures for engineering applications. Optimized direct ink write processes for steel and
 copper to produce highly porous, high surface area geometries that are difficult to achieve
