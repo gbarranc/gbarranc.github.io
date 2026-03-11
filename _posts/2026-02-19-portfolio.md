@@ -27,9 +27,10 @@ Feb 2026 – Present
 Contributing to the Mars Rover Competition on arm dynamics and gearbox design.
 Developed a parametric Excel tool that takes design constraints — gear ratio, pin count,
 and radii — and outputs an optimized cycloidal gearbox geometry, including basic analysis
-of stress concentrations on the tooth profile under load. Currently running FEA on the
-cycloidal drive to validate and optimize it for manufacturing, while also modeling arm
-linkage dynamics to inform motor and structural specs.
+of stress concentrations on the tooth profile under load. Ran FEA on the
+cycloidal drive to validate and optimize it for manufacturing.
+
+[Design Review of Analysis](https://drive.google.com/file/d/1elEZJJ-nkI1MZeKElRjXvKyfIxvkX0Cr/view?usp=sharing)
 
 
 ## 3D Printed Metal Heat Exchangers:
