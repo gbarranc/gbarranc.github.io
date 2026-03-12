@@ -23,7 +23,6 @@ C) Python visualizer
 
 [Primary Logic (static example)]({% link _posts/2026-03-12-PBCode.md %})
 
-[Test](code)
 
 ## RoboJackets: RoboNav ARM Project:
 Feb 2026 – Present
