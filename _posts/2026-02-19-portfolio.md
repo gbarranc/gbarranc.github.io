@@ -1,7 +1,6 @@
 ---
 layout: post
 author: Gael Barranco
-tags: [overview, moonwalk]
 ---
 
 
@@ -10,28 +9,28 @@ Dec 2025-Present
 ![PB Pic 1](/images/PB_02.png)
 Why must precision robots be so expensive? I built a 4 DOF robot arm from scratch using
 Facebook Marketplace and a 3D printer, driven by NEMA 23 stepper motors through a
-custom 16:1 two-stage planetary gearbox. In the initial testing, cantilever effects were
-devastating, so I created my own custom bearings throughout the entire design.
-Additionally, I initially used automotive grease for lubricant which posed both carcinogenic
-effects and foul smells, so I decided on Vaseline as a safer, much more pleasant-smelling
-alternative. For controls, I audited a Canadian surgical robotics course on the internet,
+custom 16:1 two-stage planetary gearbox. For controls, I audited a Canadian surgical robotics course on the internet,
 resulting in a completed forward kinematics script with transformation matrices, enabling
 real time end effector positioning that is visualized in a 3D environment. More work is being
 done to allow for inverse kinematics. 
 
+A) Final cad model with 50 unique parts (~170 mated parts)
+B) 3D printed assembly
+C) Python visualizer
 
+[Primary Logic (static example)](PBCode)
 
 ## RoboJackets: RoboNav ARM Project:
 Feb 2026 – Present
 ![RBN Pic 1](/images/CY_02.png)
 Contributing to the Mars Rover Competition on arm dynamics and gearbox design.
-Developed a parametric Excel tool that takes design constraints — gear ratio, pin count,
+Developed parametric Excel and python tools that takes design constraints — gear ratio, pin count,
 and radii — and outputs an optimized cycloidal gearbox geometry, including basic analysis
 of stress concentrations on the tooth profile under load. Ran FEA on the
 cycloidal drive to validate and optimize it for manufacturing.
 
-[Design Review of Analysis](https://drive.google.com/file/d/1elEZJJ-nkI1MZeKElRjXvKyfIxvkX0Cr/view?usp=sharing)
-
+[Design Review of Analysis (slides 18-24)](https://drive.google.com/file/d/1elEZJJ-nkI1MZeKElRjXvKyfIxvkX0Cr/view?usp=sharing)
+[Cycloid Builder](CYCode)
 
 ## 3D Printed Metal Heat Exchangers:
 Dec 2023 – Dec 2025
@@ -57,6 +56,9 @@ and contraction of the assisted limb. Mirrored movement is captured with encoder
 sister limb and processed by an ESP32 programmed in C++. I was successful in
 constructing the wearable robot, even allowing me to add 4 kg to my max curl.
 
+A & B) Solidworks assembly of final design.
+C) Testing printed assembly.
+
 [YouTube short link of the initial test footage I have of it](https://youtube.com/shorts/JZPm1b3LvI0?si=5PBZBgxcaps_Vgw8)
 
 
@@ -67,10 +69,13 @@ Took on my first engineering project by building a working robot arm that respon
 hand movement. Designed full CAD assembly from scratch in Onshape, taking heavy
 inspiration from the cartoon Adventure Time. I chose Arduino as the microcontroller
 because of its extensive documentation and Pyfirmata library that allowed me to use Python
-for everything. Leveraged OpenCV’s hand detection capabilities and turned my screen into
+for everything. Used OpenCV’s hand detection capabilities and turned my screen into
 a coordinate system, feeding positional data to the servos to control movement. I was
-successful in creating a fully 3D printed, working robot arm. However, its movement was not
-very fluid, precise, or stable enough to hold any meaningful load.
+successful in creating a fully 3D printed, working robot arm.
+
+A) Onshape assembly
+B) Printed assembly with servos attached
+C) Testing computer vision controls.
 
 [YouTube short link of it (kind of) working](https://youtube.com/shorts/oGQ8MJBtodc?si=Vr8nW1csyBtgdB8V)
 
