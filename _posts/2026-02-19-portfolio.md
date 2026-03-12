@@ -22,6 +22,7 @@ B) 3D printed assembly
 C) Python visualizer
 
 [Primary Logic (static example)](PBCode)
+[Primary Logic (static example)]({% link _posts/2026-03-12-PBCode.md %})
 
 [Test](code)
 
