@@ -21,7 +21,6 @@ B) 3D printed assembly
 
 C) Python visualizer
 
-[Primary Logic (static example)](PBCode)
 [Primary Logic (static example)]({% link _posts/2026-03-12-PBCode.md %})
 
 [Test](code)
@@ -38,7 +37,7 @@ cycloidal drive to validate and optimize it for manufacturing.
 
 [Design Review of Analysis (slides 18-24)](https://drive.google.com/file/d/1elEZJJ-nkI1MZeKElRjXvKyfIxvkX0Cr/view?usp=sharing)
 
-[Cycloid Builder](CYCode)
+[Cycloid Builder]({% link _posts/2026-03-12-CYCode.md %})
 
 ## 3D Printed Metal Heat Exchangers:
 Dec 2023 – Dec 2025
