@@ -14,8 +14,11 @@ resulting in a completed forward kinematics script with transformation matrices,
 real time end effector positioning that is visualized in a 3D environment. More work is being
 done to allow for inverse kinematics. 
 
+
 A) Final cad model with 50 unique parts (~170 mated parts)
+
 B) 3D printed assembly
+
 C) Python visualizer
 
 [Primary Logic (static example)](PBCode)
@@ -29,7 +32,9 @@ and radii — and outputs an optimized cycloidal gearbox geometry, including bas
 of stress concentrations on the tooth profile under load. Ran FEA on the
 cycloidal drive to validate and optimize it for manufacturing.
 
+
 [Design Review of Analysis (slides 18-24)](https://drive.google.com/file/d/1elEZJJ-nkI1MZeKElRjXvKyfIxvkX0Cr/view?usp=sharing)
+
 [Cycloid Builder](CYCode)
 
 ## 3D Printed Metal Heat Exchangers:
@@ -56,8 +61,11 @@ and contraction of the assisted limb. Mirrored movement is captured with encoder
 sister limb and processed by an ESP32 programmed in C++. I was successful in
 constructing the wearable robot, even allowing me to add 4 kg to my max curl.
 
+
 A & B) Solidworks assembly of final design.
+
 C) Testing printed assembly.
+
 
 [YouTube short link of the initial test footage I have of it](https://youtube.com/shorts/JZPm1b3LvI0?si=5PBZBgxcaps_Vgw8)
 
@@ -73,9 +81,13 @@ for everything. Used OpenCV’s hand detection capabilities and turned my screen
 a coordinate system, feeding positional data to the servos to control movement. I was
 successful in creating a fully 3D printed, working robot arm.
 
+
 A) Onshape assembly
+
 B) Printed assembly with servos attached
+
 C) Testing computer vision controls.
+
 
 [YouTube short link of it (kind of) working](https://youtube.com/shorts/oGQ8MJBtodc?si=Vr8nW1csyBtgdB8V)
 
