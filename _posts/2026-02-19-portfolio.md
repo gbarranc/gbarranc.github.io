@@ -49,6 +49,7 @@ combining the heat transfer properties of printed metals with the latent heat of
 waxes to create a cell that stabilizes temperatures during transient thermal cycles.
 Presented work at the SHPE national convention in Fall 2025.
 
+[Team Website](https://volweb2.utk.edu/~pbarnet3/)
 
 ## Wearable I:
 Sept 2024 – Nov 2024:
