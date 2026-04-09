@@ -35,6 +35,7 @@ cycloidal drive to validate and optimize it for manufacturing. Created engineeri
 
 
 [Design Review of Analysis (slides 18-24)](https://drive.google.com/file/d/1elEZJJ-nkI1MZeKElRjXvKyfIxvkX0Cr/view?usp=sharing)
+
 [Submitted drawings](https://drive.google.com/file/d/109wfdZC5IjmDbkAdSbmBpwZIOInhEQtf/view?usp=sharing)
 
 [Cycloid Builder]({% link _posts/2026-03-12-CYCode.md %})
