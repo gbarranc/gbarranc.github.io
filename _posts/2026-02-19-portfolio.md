@@ -7,7 +7,7 @@ author: Gael Barranco
 ## Princess Bubblegum:
 Dec 2025-Present
 ![PB Pic 1](/images/PB_02.png)
-Why must precision robots be so expensive? I built a 4 DOF robot arm from scratch using
+Why must precision robots be so expensive?! I built a 4 DOF robot arm from scratch using
 Facebook Marketplace and a 3D printer, driven by NEMA 23 stepper motors through a
 custom 16:1 two-stage planetary gearbox. For controls, I audited a Canadian surgical robotics course on the internet,
 resulting in a completed forward kinematics script with transformation matrices, enabling
@@ -31,10 +31,11 @@ Contributing to the Mars Rover Competition on arm dynamics and gearbox design.
 Developed parametric Excel and python tools that takes design constraints — gear ratio, pin count,
 and radii — and outputs an optimized cycloidal gearbox geometry, including basic analysis
 of stress concentrations on the tooth profile under load. Ran FEA on the
-cycloidal drive to validate and optimize it for manufacturing.
+cycloidal drive to validate and optimize it for manufacturing. Created engineering drawings for cycloidal to send to manufacturer.
 
 
 [Design Review of Analysis (slides 18-24)](https://drive.google.com/file/d/1elEZJJ-nkI1MZeKElRjXvKyfIxvkX0Cr/view?usp=sharing)
+[Submitted drawings](https://drive.google.com/file/d/109wfdZC5IjmDbkAdSbmBpwZIOInhEQtf/view?usp=sharing)
 
 [Cycloid Builder]({% link _posts/2026-03-12-CYCode.md %})
 
